@@ -7,5 +7,4 @@ for coin in coin_type:
     price %= coin
 
 print(count)
-print(count)
 
